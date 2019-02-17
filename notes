@@ -1,1 +1,3 @@
 declare components in the ngModule...which is in src/app.module.ts
+
+can't set the title in the component as exists in the body.  Import a 'Title' service
