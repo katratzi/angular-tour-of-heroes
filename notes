@@ -1,0 +1,1 @@
+declare components in the ngModule...which is in src/app.module.ts
